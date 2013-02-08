@@ -1,0 +1,15 @@
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Lib\bin\Debug\RedGlovePermission.Lib.dll
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Lib\bin\Debug\RedGlovePermission.Lib.pdb
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Lib\obj\Debug\ResolveAssemblyReference.cache
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Lib\obj\Debug\RedGlovePermission.Lib.dll
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Lib\obj\Debug\RedGlovePermission.Lib.pdb
+D:\WEBERP\RedGlovePermission.Lib\bin\Debug\RedGlovePermission.Lib.dll
+D:\WEBERP\RedGlovePermission.Lib\bin\Debug\RedGlovePermission.Lib.pdb
+D:\WEBERP\RedGlovePermission.Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\WEBERP\RedGlovePermission.Lib\obj\Debug\RedGlovePermission.Lib.dll
+D:\WEBERP\RedGlovePermission.Lib\obj\Debug\RedGlovePermission.Lib.pdb
+D:\WEBERP(參考用)\RedGlovePermission.Lib\bin\Debug\RedGlovePermission.Lib.dll
+D:\WEBERP(參考用)\RedGlovePermission.Lib\bin\Debug\RedGlovePermission.Lib.pdb
+D:\WEBERP(參考用)\RedGlovePermission.Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\WEBERP(參考用)\RedGlovePermission.Lib\obj\Debug\RedGlovePermission.Lib.dll
+D:\WEBERP(參考用)\RedGlovePermission.Lib\obj\Debug\RedGlovePermission.Lib.pdb

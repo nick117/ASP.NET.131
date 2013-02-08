@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RedGlovePermission">
+</Property><Property Name="方案檔" Value="D:\WEBERP\RedGlovePermission.sln">
+</Property><Property Name="Date" Value="2012年4月25日">
+</Property><Property Name="Time" Value="下午 13:54">
+</Property></Properties><Event ErrorLevel="1" Project="RedGlovePermission.Lib" Source="RedGlovePermission.Lib\RedGlovePermission.Lib.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.Lib" Source="RedGlovePermission.Lib\RedGlovePermission.Lib.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.Lib" Source="RedGlovePermission.Lib\RedGlovePermission.Lib.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RedGlovePermission.BLL" Source="RedGlovePermission.BLL\RedGlovePermission.BLL.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.BLL" Source="RedGlovePermission.BLL\RedGlovePermission.BLL.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.BLL" Source="RedGlovePermission.BLL\RedGlovePermission.BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RedGlovePermission.Model" Source="RedGlovePermission.Model\RedGlovePermission.Model.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.Model" Source="RedGlovePermission.Model\RedGlovePermission.Model.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.Model" Source="RedGlovePermission.Model\RedGlovePermission.Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RedGlovePermission.SQLServerDAL" Source="RedGlovePermission.DAL\RedGlovePermission.SQLServerDAL.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.SQLServerDAL" Source="RedGlovePermission.DAL\RedGlovePermission.SQLServerDAL.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.SQLServerDAL" Source="RedGlovePermission.DAL\RedGlovePermission.SQLServerDAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RedGlovePermission.DBUtility" Source="RedGlovePermission.DBUtility\RedGlovePermission.DBUtility.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.DBUtility" Source="RedGlovePermission.DBUtility\RedGlovePermission.DBUtility.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.DBUtility" Source="RedGlovePermission.DBUtility\RedGlovePermission.DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.Web" Source="RedGlovePermission.Web\RedGlovePermission.Web.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.Web" Source="RedGlovePermission.Web\RedGlovePermission.Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RedGlovePermission.DALFactory" Source="RedGlovePermission.DALFactory\RedGlovePermission.DALFactory.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.DALFactory" Source="RedGlovePermission.DALFactory\RedGlovePermission.DALFactory.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.DALFactory" Source="RedGlovePermission.DALFactory\RedGlovePermission.DALFactory.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RedGlovePermission.IDAL" Source="RedGlovePermission.IDAL\RedGlovePermission.IDAL.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.IDAL" Source="RedGlovePermission.IDAL\RedGlovePermission.IDAL.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.IDAL" Source="RedGlovePermission.IDAL\RedGlovePermission.IDAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="RedGlovePermission.MySqlDAL" Source="RedGlovePermission.MySqlDAL\RedGlovePermission.MySqlDAL.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.MySqlDAL" Source="RedGlovePermission.MySqlDAL\RedGlovePermission.MySqlDAL.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="RedGlovePermission.MySqlDAL" Source="RedGlovePermission.MySqlDAL\RedGlovePermission.MySqlDAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RedGlovePermission.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="RedGlovePermission.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.Lib" Source="RedGlovePermission.Lib\RedGlovePermission.Lib.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.BLL" Source="RedGlovePermission.BLL\RedGlovePermission.BLL.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.Model" Source="RedGlovePermission.Model\RedGlovePermission.Model.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.SQLServerDAL" Source="RedGlovePermission.DAL\RedGlovePermission.SQLServerDAL.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.DBUtility" Source="RedGlovePermission.DBUtility\RedGlovePermission.DBUtility.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.Web" Source="RedGlovePermission.Web\RedGlovePermission.Web.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.DALFactory" Source="RedGlovePermission.DALFactory\RedGlovePermission.DALFactory.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.IDAL" Source="RedGlovePermission.IDAL\RedGlovePermission.IDAL.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event><Event ErrorLevel="0" Project="RedGlovePermission.MySqlDAL" Source="RedGlovePermission.MySqlDAL\RedGlovePermission.MySqlDAL.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="NorthWindCSConnectionString-Web.config Connection String" description="NorthWindCSConnectionString web.config 中供應用程式用來存取資料庫的連接字串。" defaultvalue="Data Source=192.168.2.81;Initial Catalog=MyData;User ID=sa;Password=Goldjoint123;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\WEBERP\\RedGlovePermission\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NorthWindCSConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

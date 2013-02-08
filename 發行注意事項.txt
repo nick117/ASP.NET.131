@@ -1,0 +1,6 @@
+當沒有全部發行時
+RedGlovePermission.SQLServerDAL.dll
+及所有rpt檔, Image檔都必須手動來複製
+
+Question :
+防火牆已關, Crystal卻登入失敗? 

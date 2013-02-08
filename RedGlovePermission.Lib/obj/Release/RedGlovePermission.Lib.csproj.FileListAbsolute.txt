@@ -1,0 +1,5 @@
+D:\WEBERP\RedGlovePermission.Lib\bin\Release\RedGlovePermission.Lib.dll
+D:\WEBERP\RedGlovePermission.Lib\bin\Release\RedGlovePermission.Lib.pdb
+D:\WEBERP\RedGlovePermission.Lib\obj\Release\ResolveAssemblyReference.cache
+D:\WEBERP\RedGlovePermission.Lib\obj\Release\RedGlovePermission.Lib.dll
+D:\WEBERP\RedGlovePermission.Lib\obj\Release\RedGlovePermission.Lib.pdb

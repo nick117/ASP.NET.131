@@ -1,0 +1,12 @@
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.SQLServerDAL.dll
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.SQLServerDAL.pdb
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.DBUtility.dll
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.IDAL.dll
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.Model.dll
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\MySql.Data.dll
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.DBUtility.pdb
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.IDAL.pdb
+D:\WEBERP\RedGlovePermission.DAL\bin\Release\RedGlovePermission.Model.pdb
+D:\WEBERP\RedGlovePermission.DAL\obj\Release\ResolveAssemblyReference.cache
+D:\WEBERP\RedGlovePermission.DAL\obj\Release\RedGlovePermission.SQLServerDAL.dll
+D:\WEBERP\RedGlovePermission.DAL\obj\Release\RedGlovePermission.SQLServerDAL.pdb

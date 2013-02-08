@@ -1,0 +1,7 @@
+D:\WEBERP\RedGlovePermission.IDAL\bin\Release\RedGlovePermission.IDAL.dll
+D:\WEBERP\RedGlovePermission.IDAL\bin\Release\RedGlovePermission.IDAL.pdb
+D:\WEBERP\RedGlovePermission.IDAL\bin\Release\RedGlovePermission.Model.dll
+D:\WEBERP\RedGlovePermission.IDAL\bin\Release\RedGlovePermission.Model.pdb
+D:\WEBERP\RedGlovePermission.IDAL\obj\Release\ResolveAssemblyReference.cache
+D:\WEBERP\RedGlovePermission.IDAL\obj\Release\RedGlovePermission.IDAL.dll
+D:\WEBERP\RedGlovePermission.IDAL\obj\Release\RedGlovePermission.IDAL.pdb

@@ -1,0 +1,6 @@
+D:\WEBERP\RedGlovePermission.DBUtility\bin\Release\RedGlovePermission.DBUtility.dll
+D:\WEBERP\RedGlovePermission.DBUtility\bin\Release\RedGlovePermission.DBUtility.pdb
+D:\WEBERP\RedGlovePermission.DBUtility\bin\Release\MySql.Data.dll
+D:\WEBERP\RedGlovePermission.DBUtility\obj\Release\ResolveAssemblyReference.cache
+D:\WEBERP\RedGlovePermission.DBUtility\obj\Release\RedGlovePermission.DBUtility.dll
+D:\WEBERP\RedGlovePermission.DBUtility\obj\Release\RedGlovePermission.DBUtility.pdb

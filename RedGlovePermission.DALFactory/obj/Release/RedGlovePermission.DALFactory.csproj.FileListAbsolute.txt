@@ -1,0 +1,11 @@
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.DALFactory.dll
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.DALFactory.pdb
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.IDAL.dll
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.Lib.dll
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.Model.dll
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.IDAL.pdb
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.Lib.pdb
+D:\WEBERP\RedGlovePermission.DALFactory\bin\Release\RedGlovePermission.Model.pdb
+D:\WEBERP\RedGlovePermission.DALFactory\obj\Release\ResolveAssemblyReference.cache
+D:\WEBERP\RedGlovePermission.DALFactory\obj\Release\RedGlovePermission.DALFactory.dll
+D:\WEBERP\RedGlovePermission.DALFactory\obj\Release\RedGlovePermission.DALFactory.pdb

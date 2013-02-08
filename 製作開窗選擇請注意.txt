@@ -1,0 +1,2 @@
+1.移除Ajax的Updatepanel...否則所有this.page.control的javascript無法對此窗進行操作!
+2.GridView中程式操作功能請移除, 否則this.page.control無法增加javascript進去

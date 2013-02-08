@@ -1,0 +1,15 @@
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Model\bin\Debug\RedGlovePermission.Model.dll
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Model\bin\Debug\RedGlovePermission.Model.pdb
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Model\obj\Debug\RedGlovePermission.Model.dll
+E:\MyWork\RedGlovePermission3.5-Ajax\RedGlovePermission.Model\obj\Debug\RedGlovePermission.Model.pdb
+D:\WEBERP\RedGlovePermission.Model\bin\Debug\RedGlovePermission.Model.dll
+D:\WEBERP\RedGlovePermission.Model\bin\Debug\RedGlovePermission.Model.pdb
+D:\WEBERP\RedGlovePermission.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\WEBERP\RedGlovePermission.Model\obj\Debug\RedGlovePermission.Model.dll
+D:\WEBERP\RedGlovePermission.Model\obj\Debug\RedGlovePermission.Model.pdb
+D:\WEBERP(參考用)\RedGlovePermission.Model\bin\Debug\RedGlovePermission.Model.dll
+D:\WEBERP(參考用)\RedGlovePermission.Model\bin\Debug\RedGlovePermission.Model.pdb
+D:\WEBERP(參考用)\RedGlovePermission.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\WEBERP(參考用)\RedGlovePermission.Model\obj\Debug\RedGlovePermission.Model.dll
+D:\WEBERP(參考用)\RedGlovePermission.Model\obj\Debug\RedGlovePermission.Model.pdb
